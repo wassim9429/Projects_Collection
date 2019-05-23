@@ -1,2 +1,7 @@
 # Projects_Collection
-This Repo contains a selection off my Data Science and AI projects
+This Repo contains a selection of my Data Science and AI projects
+It will contain various notebooks
+
+## EDA
+
+## Classification
